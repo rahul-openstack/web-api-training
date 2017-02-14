@@ -1,1 +1,1 @@
-# Trainig Material for the ASP.Net MVC Web API Trainig conducted by me.
+# Reference Material for the ASP.Net MVC Web API Training conducted by me.
